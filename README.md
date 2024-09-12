@@ -23,7 +23,7 @@ No projeto implementando o ISP:
 #### 🎯 Benefícios:
 - **Modularidade**: Interfaces menores e específicas permitem que cada classe implemente apenas o que precisa. 🧩
 - **Flexibilidade**: Podemos adaptar as classes às suas necessidades sem obrigar métodos desnecessários. 🚀
-- **Redução de acoplamento**: As classes ficam menos acopladas, resultando em um sistema mais modular e fácil de manter. 🔧
+- **Redução de acoplamento**: As classes ficam menos acopladas, resultando em um sistema mais modular e fácil de manter. 🔧 
 
 ## Estrutura do Projeto 
 ![image](https://github.com/user-attachments/assets/05f1a401-4c11-4062-9871-9cac582a20c5)
