@@ -1,7 +1,7 @@
 
 # 💻 Interface Segregation Principle (ISP) 
 ![image](https://github.com/user-attachments/assets/4b1d23fa-f2ed-461f-abdf-057d32101f51)
-
+ 
 ## O que é o ISP?
 
 O **Princípio da Segregação de Interfaces (ISP)** afirma que **os clientes não devem ser forçados a depender de interfaces que não utilizam**. 🔌 Ou seja, uma interface deve ser pequena e específica para a necessidade do cliente, ao invés de uma interface grande e cheia de métodos desnecessários. 🎛️
