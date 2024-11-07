@@ -1,5 +1,5 @@
 
-# 💻 Interface Segregation Principle (ISP) 
+# 💻 Interface Segregation Principle (ISP)  
 ![image](https://github.com/user-attachments/assets/4b1d23fa-f2ed-461f-abdf-057d32101f51)
  
 ## O que é o ISP?
